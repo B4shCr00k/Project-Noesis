@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Builder/Builder.vcxproj" Id="151e9b0b-d672-4a1f-ab1d-3b2a505dc785" />
+  <Project Path="Noesis/Noesis.vcxproj" Id="272f8792-0970-46d8-b5c3-fc50ee134314" />
+  <Project Path="Project Noesis/Project Noesis.vcxproj" Id="c7c61c42-819e-4137-8ac5-ce839397ad2d" />
+</Solution>
